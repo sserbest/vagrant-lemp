@@ -49,3 +49,7 @@ DB Name: dbname (test db)\
 DB Engine: MariaDB\
 /
 Note: Connect using SSH tunnel, username vagrant and SSH key generated at puphpet/files/dot/ssh/id_rsa. This key is generated after your initial $ vagrant up!\
+
+#### Bonus
+I really liked Vagrant Manager, you should take a look.\
+http://vagrantmanager.com/
