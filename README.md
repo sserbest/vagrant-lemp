@@ -2,7 +2,7 @@
 
 edit your personal hosts file
 ```
-sudo /etc/hosts
+sudo nano /etc/hosts
 ```
 Add end of the file
 ```
